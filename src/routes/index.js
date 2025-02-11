@@ -1,5 +1,5 @@
-import express from 'express';
-import getModules from '../utils/getModules';
+const express = require('express');
+const getModules = require('../utils/getModules');
 
 const router = express.Router();
 
