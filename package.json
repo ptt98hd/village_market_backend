@@ -1,0 +1,27 @@
+{
+	"name": "village-market-be",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon src/server.js",
+		"start": "node src/server.js"
+	},
+	"keywords": [
+		"chợ làng",
+		"village market"
+	],
+	"author": "ptt98hd",
+	"license": "ISC",
+	"type": "commonjs",
+	"description": "Village Market Backend with nodejs",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"dotenv": "^16.4.7",
+		"express": "^4.21.2",
+		"mysql2": "^3.12.0",
+		"sequelize": "^6.37.5"
+	},
+	"devDependencies": {
+		"nodemon": "^3.1.9"
+	}
+}
