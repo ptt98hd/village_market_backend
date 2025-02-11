@@ -13,7 +13,7 @@
 	"author": "ptt98hd",
 	"license": "ISC",
 	"type": "commonjs",
-	"description": "Village Market Backend with nodejs",
+	"description": "Village Market project backend with NodeJS",
 	"dependencies": {
 		"cors": "^2.8.5",
 		"dotenv": "^16.4.7",
